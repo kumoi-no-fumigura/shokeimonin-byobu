@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shokeimonin-byobu",
  "yomi": "しょうけいもんいんおんびょうぶおしいろがみわか",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "屏風歌",
+  "era": "徳治元年（1306）頃",
+  "author": "二条為世・為藤・覚助法親王ほか",
+  "desc": "昭慶門院の屏風に色紙で押した歌。納涼・梅・帰雁などの題で為世・為相・為藤らが二首ずつ詠む。奥書によれば、色紙は為世の娘（のちの為子）が書いた。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -642,6 +647,6 @@
   "poems": 52,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
